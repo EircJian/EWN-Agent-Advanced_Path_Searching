@@ -40,7 +40,9 @@ Two different optimized search algorithms are implemented, Iterative Deepening L
 
 # Performances
 - Pure A* algorithm
+
 ![](pure_A_star.png)
 
 - A* with heuristics
+
 ![](best.png)
